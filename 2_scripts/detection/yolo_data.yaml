@@ -1,0 +1,6 @@
+path: /content/drive/MyDrive/LPR_Project/1_data/detection_yolo_dataset
+train: train/images
+val: val/images
+nc: 1
+names:
+- license_plate
